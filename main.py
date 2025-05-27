@@ -11,3 +11,5 @@
 #   1 : virchul enviroment = venv
 #   2 : kernel => ba package ipykernel in mored ra estefadeh mikonim
 # file haieh asli ba pasvand ipynb = i pyhon not book 
+# pip freeze > requirements.txt => save packages
+# pip install -r requirements.txt => install after clone repository
