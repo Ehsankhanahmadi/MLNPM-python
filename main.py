@@ -13,5 +13,3 @@
 # file haieh asli ba pasvand ipynb = i pyhon not book 
 # pip freeze > requirements.txt => save packages
 # pip install -r requirements.txt => install after clone repository
-# bad az didan data preprocessing tamrin haieh khodesh
-# va tamrin haieh ghabli ro hal mikonim
